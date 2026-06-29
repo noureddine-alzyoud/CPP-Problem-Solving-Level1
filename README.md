@@ -7,9 +7,9 @@ Welcome to my repository! This project is dedicated to documenting my journey th
 
 # Course & Core Competencies 
 By solving these challenges, I have developed strong foundations in:
-* Procedural Programming:** Breaking down complex problems into modular, reusable C++ functions.
-* Control Structures:** Mastering dynamic input validation with `do-while` loops and multi-branch condition processing (`if-else if`, `switch-case`).
-* Data Types & Arithmetic:** Working with precise floating-point mathematics, structural casting, and memory efficiency via Pass-by-Reference (`&`).
+* Procedural Programming: Breaking down complex problems into modular, reusable C++ functions.
+* Control Structures: Mastering dynamic input validation with do-while loops and multi-branch condition processing (if-else if, switch-case).
+* Data Types & Arithmetic:** Working with precise floating-point mathematics, structural casting, and memory efficiency via Pass-by-Reference (&).
 
 ---
 
@@ -18,7 +18,7 @@ By solving these challenges, I have developed strong foundations in:
 Here is a breakdown of key logical solutions implemented across the 50 tasks in this repository:
 
 # 1. Advanced Math & Conversions 
-* Time Management: Scripts that calculate total seconds from days/hours/minutes and conversely decompose total seconds back into human-readable formats (Days:Hours:Minutes:Seconds) using `<cmath>`.
+* Time Management: Scripts that calculate total seconds from days/hours/minutes and conversely decompose total seconds back into human-readable formats (Days:Hours:Minutes:Seconds) using <cmath>.
 * Geometry Calculators: Functions to calculate areas of circles, rectangles, and triangles under different input conditions (e.g., radius, diameter, or inscribed triangle sides).
 
 # 2. Business & Financial Logic 
